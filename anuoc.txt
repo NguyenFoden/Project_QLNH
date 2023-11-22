@@ -1,0 +1,10 @@
+  	         MENU MON NUOC 
+ 
+STT     |       Ten mon              |   Gia thanh   
+--------|----------------------------|------------------
+ 1      |       Bia Tiger            |     15k             
+ 2      |       Bia SaiGom           |     13k
+ 3      |       Sting                |     10k
+ 4      |       7UP                  |     10k
+ 5      |       PEPSI                |     10k  
+ 6      |       Aquafina             |     6k

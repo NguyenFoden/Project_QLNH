@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1700366869 source:c:\project_qlnh\main.cpp
+	<bits/stdc++.h>
+	<string>
+	<windows.h>
+
